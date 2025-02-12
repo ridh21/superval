@@ -1,0 +1,16 @@
+{
+  "name": "superval",
+  "version": "1.0.0",
+  "description": "A blazing-fast, TypeScript-first validation library",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest"
+  },
+  "repository": "https://github.com/ridh21/superval",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": ["typescript", "validation", "zod", "schema"]
+}
