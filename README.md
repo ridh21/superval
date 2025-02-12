@@ -2,7 +2,6 @@
 
 [![NPM Version](https://img.shields.io/npm/v/superval)](https://www.npmjs.com/package/superval)
 
-
 ## 🚀 About
 **SuperVal** is a blazing-fast, lightweight, and TypeScript-first validation library designed to be an alternative to Zod, providing better performance and developer experience. It ensures type safety while keeping your schemas concise and efficient.
 
